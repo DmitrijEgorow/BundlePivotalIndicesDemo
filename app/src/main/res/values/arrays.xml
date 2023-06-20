@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="networks">
+        <item>Small Network with 5 vertices</item>
+        <item>Energy Network with 201 countries</item>
+    </array>
+</resources>

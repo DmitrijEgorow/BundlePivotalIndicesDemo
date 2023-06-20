@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BundlePivotalIndicesDemo</string>
+    <string name="calculate">Calculate</string>
+    <string name="bi_hint">BI:</string>
+</resources>
